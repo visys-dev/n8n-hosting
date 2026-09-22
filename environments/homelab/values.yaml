@@ -15,4 +15,4 @@ database:
     key: password
 
 secretRefs:
-  existingSecret: n8n-encryption-key
+  existingSecret: n8n-core-secret
